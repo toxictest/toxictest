@@ -7,6 +7,6 @@
 drx@security:~$ whoami
 > Vulnerability Researcher & Bug Bounty Hunter
 drx@security:~$ cat targets.txt
-> Web Applications, APIs, Recon Pipelines, Logic Flaws
+> Web Applications, APIs, Recon Pipelines, Business Logic
 drx@security:~$ status
 > Hunting... [200 OK]
