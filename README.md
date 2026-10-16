@@ -72,12 +72,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=toxictest&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
----
-
-### 📈 **Contribution Graph**
-![Snake animation](https://raw.githubusercontent.com/toxictest/toxictest/output/github-contribution-grid-snake.svg)
-
----
 
 <div align="center">
   
